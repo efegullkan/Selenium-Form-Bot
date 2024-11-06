@@ -9,10 +9,3 @@ This project is a form-filling bot using **Express.js** and **Selenium**. It acc
 - **Robust Data Validation**: Ensures required fields are provided and sends feedback if any are missing.
 - **Chrome WebDriver**: Uses Chrome for form automation with configurable options (e.g., `--no-sandbox`).
 
-## Usage
-
-1. Clone the repository and install dependencies:
-   ```bash
-   git clone https://github.com/yourusername/automation-practice-form-bot.git
-   cd automation-practice-form-bot
-   npm install
